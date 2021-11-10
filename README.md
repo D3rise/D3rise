@@ -17,7 +17,7 @@ const D3rise = {
 
 Here's my github trophies:  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=D3rise&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=D3rise&column=3&margin-w=15&margin-h=15&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 And here's your rickroll:
 
