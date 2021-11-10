@@ -1,4 +1,7 @@
-Behold!
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=D3rise.D3rise)
+![open-source one love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
+
+**Behold!**  
 Here's my statistics:
 
 ![stats](https://github-readme-stats.vercel.app/api?username=D3rise&theme=onedark)  
