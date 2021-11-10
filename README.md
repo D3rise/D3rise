@@ -1,6 +1,7 @@
-# 👋 Hello there, fellow stranger!
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=D3rise.D3rise)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+<h1 align="center">👋 Hello there, fellow stranger!<br/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=D3rise.D3rise"></img>
+<img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/"></img>
+</h1>
 
 [![D3rise's github stats](https://github-readme-stats.vercel.app/api?username=D3rise&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![D3rise's github streak](https://github-readme-streak-stats.herokuapp.com/?user=D3rise&theme=onedark)](https://github.com/DenverCoder1/github-readme-streak-stats)  
