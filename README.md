@@ -26,12 +26,12 @@
 
 > **Projects I've been working on some time ago:**
 
-- **[Anonymous Chats Bot](https://github.com/D3rise/anonymous-chats-discord)** (Node.js) - Bot for Discord that allows you to chat anonymously with random people
-- **[Teleflood](https://github.com/D3rise/teleflood)** (Python) - Flooding tool for Telegram with support of proxies and multiple accounts
-- **[MMORPG Server](https://github.com/D3rise/mmorpg-server)** (Node.js) - Undone MMORPG game that works through REST API and Socket.io
-- **[Discord VK Music](https://github.com/D3rise/discord-vkmusic)** (Python) - Tool to show what you're listening to in VKontakte social network in your Discord profile
-- **[SDC Bumper](https://github.com/D3rise/sdc-bumper)** (Node.js) - Tool to automatically boost servers on SDC Discord Server Monitoring
-- **[Go Chat](https://github.com/D3rise/go-chat)** (Golang) - Simple chat application on Go
-- **[Rust Guessing Game](https://github.com/D3rise/rust-guessing-game)** (Rust) - Number guessing game, written in Rust
-- **[Discord Cipher Selfbot](https://github.com/D3rise/discord-cipher-selfbot)** (Node.js) - Bot for discord that allows you to automatically cipher you messages with various ciphers
-- **[College New Year Tree](https://github.com/D3rise/college-new-year-tree)** (HTML & CSS & JS) - Page with counter of days left until New Year, college project
+- **[Anonymous Chats Bot](https://github.com/D3rise/anonymous-chats-discord)** (Node.js) - **Bot for Discord that allows you to chat anonymously with random people**
+- **[Teleflood](https://github.com/D3rise/teleflood)** (Python) - **Flooding tool for Telegram with support of proxies and multiple accounts**
+- **[MMORPG Server](https://github.com/D3rise/mmorpg-server)** (Node.js) - **Undone MMORPG game that works through REST API and Socket.io**
+- **[Discord VK Music](https://github.com/D3rise/discord-vkmusic)** (Python) - **Tool to show what you're listening to in VKontakte social network in your Discord profile**
+- **[SDC Bumper](https://github.com/D3rise/sdc-bumper)** (Node.js) - **Tool to automatically boost servers on SDC Discord Server Monitoring**
+- **[Go Chat](https://github.com/D3rise/go-chat)** (Golang) - **Simple chat application on Go**
+- **[Rust Guessing Game](https://github.com/D3rise/rust-guessing-game)** (Rust) - **Number guessing game, written in Rust**
+- **[Discord Cipher Selfbot](https://github.com/D3rise/discord-cipher-selfbot)** (Node.js) - **Bot for discord that allows you to automatically cipher you messages with various ciphers**
+- **[College New Year Tree](https://github.com/D3rise/college-new-year-tree)** (HTML & CSS & JS) - **Page with counter of days left until New Year, college project**
