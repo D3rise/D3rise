@@ -1,4 +1,4 @@
- <h1>👋 Welcome <img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FD3rise%2FD3rise&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%81+Visitors&edge_flat=false"/></h1>
+ <h1 vertical-align="top">👋 Welcome <img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FD3rise%2FD3rise&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%81+Visitors&edge_flat=false"/></h1>
 
  
   <img  width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=D3rise&hide_border=true&count_private=true&layout=compact&hide_title=true&show_icons=true&theme=dracula&icon_color=5194f0&bg_color=0d1117">
