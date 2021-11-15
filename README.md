@@ -14,7 +14,7 @@
   - [Telegram](https://t.me/D3rise)
 
   ## Current Open Source Projects
-  > **Project I'm currently working on:**
+  > **Projects I'm currently working on:**
   - **[WorldSkills Ethereum](https://github.com/D3rise/ws-ethereum)** (Solidity & Node.js) - **Solutions for regional stage tasks of WorldSkills Russia in blockchain competition**
 
   ## Open Source Projects
