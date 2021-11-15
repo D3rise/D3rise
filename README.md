@@ -12,6 +12,7 @@
   ### 📫 Socials
   - [Discord](https://discord.com/channels/@me/253913831896645632)
   - [Telegram](https://t.me/D3rise)
+  - [Email](mailto:derise2000@gmail.com)
 
   ## 🔥 Current Open Source Projects
   > **Projects I'm currently working on:**
