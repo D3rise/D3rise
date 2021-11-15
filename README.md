@@ -1,4 +1,4 @@
- <h1>👋 Welcome <img align="right" src="https://hit.yhype.me/github/profile?user_id=34286268"/></h1>
+ <h1>👋 Welcome <img align="right" src="https://profile-counter.glitch.me/D3rise/count.svg"/></h1>
 
  
   <img  width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=D3rise&hide_border=true&count_private=true&layout=compact&hide_title=true&show_icons=true&theme=dracula&icon_color=5194f0&bg_color=0d1117">
