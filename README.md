@@ -1,8 +1,8 @@
 # 👋 Welcome <img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FD3rise%2FD3rise&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%81+Visitors&edge_flat=false"/>
 
-  <img  width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=D3rise&hide_border=true&count_private=true&layout=compact&hide_title=true&show_icons=true&theme=dracula&icon_color=5194f0&bg_color=0d1117">
-  <img width="50%" align="right" src="https://media.giphy.com/media/UV4rSwlTM7mnRa5l4o/giphy.gif">   
-  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3rise&hide=html&layout=compact&hide_border=true&hide_title=true&count_private=true&theme=dracula&icon_color=5194f0&bg_color=0d1117"/>
+  <img  width="55%" align="right" src="https://github-readme-stats.vercel.app/api?username=D3rise&hide_border=true&count_private=true&layout=compact&hide_title=true&show_icons=true&theme=dracula&icon_color=5194f0&bg_color=0d1117">
+  <img width="55%" align="right" src="https://media.giphy.com/media/UV4rSwlTM7mnRa5l4o/giphy.gif">   
+  <img width="55%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3rise&hide=html&layout=compact&hide_border=true&hide_title=true&count_private=true&theme=dracula&icon_color=5194f0&bg_color=0d1117"/>
 
 **Hi, my name is Vladimir** and I am a Computer Science student in Taganrog's College of Marine Instrumentation, Open Source enthusiast and software engineer. I ❤ computer hardware, Android, Linux, networks, blockchain, [memes](https://www.youtube.com/watch?v=dQw4w9WgXcQ), music, books, anime and films.
 
