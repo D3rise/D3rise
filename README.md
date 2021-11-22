@@ -20,7 +20,7 @@
 
 > **Projects I'm currently working on:**
 
-- **[WorldSkills Ethereum](https://github.com/D3rise/ws-ethereum)** (Solidity & Node.js) - **Solutions for regional stage tasks of WorldSkills Russia in blockchain competition**
+- **[Shop Manager](https://github.com/D3rise/shop-manager)** (Solidity & Node.js) - **dApp for managing shops and getting feedback from users, based on Ethereum blockchain (WorldSkills Task)**
 
 ## ⚒ Open Source Projects
 
