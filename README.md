@@ -8,7 +8,6 @@
 
 ### 🔧 Languages & Tools
 
-<a href="https://jestjs.io/"><img alt="Jest" src="https://img.shields.io/badge/-Jest-97747e?style=flat&logo=Jest&logoColor=white" /></a>
 <a href="https://nodejs.org/"><img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat&logo=Node.js&logoColor=white" /></a>
 <a href="https://golang.org/"><img alt="Go" src="https://img.shields.io/badge/-Go-008184?style=flat&logo=go&logoColor=white" /></a>
 <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-235a96?style=flat&logo=typescript&logoColor=white" /></a>
@@ -19,6 +18,9 @@
 <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/-Python-397ab2?style=flat&logo=Python&logoColor=white" /></a>
 <a href="https://reactjs.org/"><img alt="React" src="https://img.shields.io/badge/-React-282c34?style=flat&logo=react&logoColor=white" /></a>
 <a href="https://yarnpkg.com/"><img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2188b6?style=flat&logo=yarn&logoColor=white" /></a>
+<a href="https://chaijs.com/"><img alt="Chai" src="https://img.shields.io/badge/-Chai-a40802?style=flat&logo=Chai&logoColor=white" /></a>
+<a href="https://mochajs.org/"><img alt="Mocha" src="https://img.shields.io/badge/-Mocha-8d6748?style=flat&logo=Mocha&logoColor=white" /></a>
+<a href="https://jestjs.io/"><img alt="Jest" src="https://img.shields.io/badge/-Jest-97747e?style=flat&logo=Jest&logoColor=white" /></a>
 <a href="https://ethereum.org/"><img alt="Ethereum" src="https://img.shields.io/badge/-Ethereum-222222?style=flat&logo=Ethereum&logoColor=white" /></a>
 <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/-Docker-1390b6?style=flat&logo=Docker&logoColor=white" /></a>
 <a href="https://hyperledger.github.io/"><img alt="Hyperledger" src="https://img.shields.io/badge/-Hyperledger-222222?style=flat&logo=Hyperledger&logoColor=white" /></a>
