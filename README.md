@@ -45,6 +45,7 @@
 > **Projects I'm currently working on:**
 
 - **[Shop Manager](https://github.com/D3rise/shop-manager)** (Solidity & Node.js) - **dApp for managing shops and getting feedback from users, based on Ethereum blockchain**
+- **[HyperLedger Fabric Playground](https://github.com/D3rise/hyperledger-fabric-playground)** - **My Hyperledger Fabric playground**
 
 ## ⚒ Open Source Projects
 
