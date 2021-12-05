@@ -29,7 +29,6 @@
 <a href="https://www.kernel.org/"><img alt="Linux" src="https://img.shields.io/badge/-Linux-ffd133?style=flat&logo=Linux&logoColor=black" /></a>
 <a href="https://isocpp.org/"><img alt="C++" src="https://img.shields.io/badge/-C++-4183c4?style=flat&logo=cplusplus&logoColor=white" /></a>
 <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-0066b8?style=flat&logo=visualstudiocode&logoColor=white" /></a>
-<a href="https://visualstudio.com/"><img alt="Visual Studio" src="https://img.shields.io/badge/-Visual Studio-cd97f9?style=flat&logo=visualstudio&logoColor=black" /></a>
 <a href="https://expressjs.com/"><img alt="Express" src="https://img.shields.io/badge/-Express-fdfdfd?style=flat&logo=express&logoColor=black" /></a>
 <a href="https://nestjs.com/"><img alt="Nest.js" src="https://img.shields.io/badge/-Nest.js-e0234e?style=flat&logo=nestjs&logoColor=white" /></a>
 <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" /></a>
