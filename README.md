@@ -52,6 +52,7 @@
 
 - **[Anonymous Chats Bot](https://github.com/D3rise/anonymous-chats-discord)** (Node.js) - **Bot for Discord that allows you to chat anonymously with random people**
 - **[Teleflood](https://github.com/D3rise/teleflood)** (Python) - **Flooding tool for Telegram with support of proxies and multiple accounts**
+- **[ItTech Study Bot](https://github.com/D3rise/ittech-hackathon)** (Node.js) - **Bot for Telegram that was made during ItTech Hackathon**
 - **[MMORPG Server](https://github.com/D3rise/mmorpg-server)** (Node.js) - **Incomplete MMORPG game that works through REST API and Socket.io**
 - **[Discord VK Music](https://github.com/D3rise/discord-vkmusic)** (Python) - **Tool to show what you're listening to in VKontakte social network in your Discord profile**
 - **[SDC Bumper](https://github.com/D3rise/sdc-bumper)** (Node.js) - **Tool to automatically boost servers on SDC Discord Server Monitoring**
