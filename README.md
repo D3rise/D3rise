@@ -41,8 +41,7 @@
 
 > **Projects I'm currently working on:**
 
-- **[Shop Manager](https://github.com/D3rise/shop-manager)** (Solidity & Node.js) - **dApp made on WorldSkills Russia terms of reference, based on Ethereum blockchain**
-- **[HyperLedger Test Network](https://github.com/D3rise/hl-test-network)** - **My Hyperledger Fabric playground**
+- Nothing
 
 ## ⚒ Open Source Projects
 
@@ -58,3 +57,5 @@
 - **[Rust Guessing Game](https://github.com/D3rise/rust-guessing-game)** (Rust) - **Number guessing game, written in Rust**
 - **[Discord Cipher Selfbot](https://github.com/D3rise/discord-cipher-selfbot)** (Node.js) - **Bot for discord that allows you to automatically cipher you messages with various ciphers**
 - **[College New Year Tree](https://github.com/D3rise/college-new-year-tree)** (HTML & CSS & JS) - **Page with counter of days left until New Year, college project**
+- **[Shop Manager](https://github.com/D3rise/shop-manager)** (Solidity & Node.js) - **dApp made on WorldSkills Russia terms of reference, based on Ethereum blockchain**
+- **[HyperLedger Test Network](https://github.com/D3rise/hl-test-network)** - **My Hyperledger Fabric playground**
