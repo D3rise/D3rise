@@ -4,7 +4,9 @@
   <img width="55%" align="right" src="https://media.giphy.com/media/UV4rSwlTM7mnRa5l4o/giphy.gif">   
   <img width="55%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3rise&hide=html&layout=compact&hide_border=true&hide_title=true&count_private=true&theme=dracula&icon_color=5194f0&bg_color=0d1117"/>
 
-**Hi, my name is Vladimir** and I am a Computer Science student in Taganrog's College of Marine Instrumentation, Open Source enthusiast and software engineer. I ❤ computer hardware, Android, Linux, networks, [memes](https://www.youtube.com/watch?v=dQw4w9WgXcQ), music, books, astrophysics, quantum mechanics, anime and films. Started by writing bots, now writing backends, doing DevOps stuff and administrating Linux servers.
+**Hi, my name is Vladimir** and I am a Computer Science student in Taganrog's College of Marine Instrumentation, Open Source enthusiast and software engineer. I ❤ computer hardware, Android, Linux, networks, [memes](https://www.youtube.com/watch?v=dQw4w9WgXcQ), music, books, astrophysics, quantum mechanics, anime and films.  
+
+Started by writing bots, now writing backends, doing DevOps stuff and administrating Linux servers.
 
 ### 🔧 Languages & Tools
 
