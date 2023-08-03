@@ -6,7 +6,7 @@
 
 **Hi, my name is Vladimir** and I am a Computer Science student in Taganrog's College of Marine Instrumentation, Open Source enthusiast and software engineer. I ❤ computer hardware, Android, Linux, networks, [memes](https://www.youtube.com/watch?v=dQw4w9WgXcQ), music, books, astrophysics, quantum mechanics, anime and films.  
 
-Started by writing bots, now writing backends, doing DevOps stuff and administrating Linux servers.
+Started by writing bots and Minecraft mods, now writing backends, doing DevOps stuff and administrating Linux servers.
 
 ### 🔧 Languages & Tools
 
