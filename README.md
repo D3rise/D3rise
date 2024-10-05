@@ -6,7 +6,9 @@
 
 **Hi, my name is Vladimir** and I am a Computer Science student in Taganrog's College of Marine Instrumentation, Open Source enthusiast and software engineer. I ❤ computer hardware, Linux, networks, [memes](https://www.youtube.com/watch?v=dQw4w9WgXcQ), music, books, astrophysics, quantum mechanics, anime and films.  
 
-Started by writing bots and mods, now writing backends, doing DevOps stuff and administrating Linux servers as well as network infrastructure.
+Started by writing bots and mods, now designing and writing backend systems, doing DevOps stuff and administrating Linux servers as well as network infrastructure.
+
+Currently working as a Software Engineer at [ATME LLC](https://atme.com) creating digital financial assets exchange using blockchain technologies.
 
 ### 🔧 Languages & Tools
 
