@@ -1,4 +1,4 @@
-# 👋 Welcome <img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FD3rise%2FD3rise&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%81+Visitors&edge_flat=false"/>
+# 👋 Welcome <img align="right" src="https://profile-counter.glitch.me/D3rise/count.svg"/>
 
   <img  width="55%" align="right" src="https://github-readme-stats.vercel.app/api?username=D3rise&hide_border=true&count_private=true&layout=compact&hide_title=true&show_icons=true&theme=dracula&icon_color=5194f0&bg_color=0d1117&include_all_commits=true&rank_icon=github&show_icons=true">
   <img width="55%" align="right" src="https://media.giphy.com/media/UV4rSwlTM7mnRa5l4o/giphy.gif">   
