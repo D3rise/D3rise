@@ -45,7 +45,7 @@ Currently working as a Software Engineer at [ATME](https://atme.com) creating di
 
 > **Projects I'm currently working on:**
 
-- Nothing
+- **[Hyperledger Voting System](https://github.com/nonblood-brothers/hyperledger-voting-system)** - **A voting system based on decentralized blockchain of Hyperledger Fabric, a college diploma project**
 
 ## ⚒ Open Source Projects
 
