@@ -45,12 +45,13 @@ Currently working as a Software Engineer at [ATME](https://atme.com) creating di
 
 > **Projects I'm currently working on:**
 
-- **[Hyperledger Voting System](https://github.com/nonblood-brothers/hyperledger-voting-system)** - **A voting system based on decentralized blockchain of Hyperledger Fabric; a college diploma project**
+- None
 
 ## ⚒ Open Source Projects
 
 > **Projects I've been working on some time ago:**
 
+- **[Hyperledger Voting System](https://github.com/nonblood-brothers/hyperledger-voting-system)** - **A voting system based on decentralized blockchain of Hyperledger Fabric; a college diploma project**
 - **[Anonymous Chats Bot](https://github.com/D3rise/anonymous-chats-discord)** (Node.js) - **Bot for Discord that allows you to chat anonymously with random people**
 - **[Teleflood](https://github.com/D3rise/teleflood)** (Python) - **Flooding tool for Telegram with support of proxies and multiple accounts**
 - **[ItTech Study Bot](https://github.com/D3rise/ittech-hackathon)** (Node.js) - **Bot for Telegram that was made during ItTech Hackathon**
