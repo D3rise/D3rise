@@ -59,6 +59,7 @@ Currently working as a Software Engineer at [ATME](https://atme.com) creating di
 - **[Discord VK Music](https://github.com/D3rise/discord-vkmusic)** (Python) - **Tool to show what you're listening to in VKontakte social network in your Discord profile**
 - **[SDC Bumper](https://github.com/D3rise/sdc-bumper)** (Node.js) - **Tool to automatically boost servers on SDC Discord Server Monitoring**
 - **[Go Chat](https://github.com/D3rise/go-chat)** (Golang) - **Simple chat application in Go**
+- **[PokedexCLI](https://github.com/D3rise/pokedexcli)** (Golang) - **Pokedex CLI/REPL**
 - **[Rust Guessing Game](https://github.com/D3rise/rust-guessing-game)** (Rust) - **Number guessing game, written in Rust**
 - **[Discord Cipher Selfbot](https://github.com/D3rise/discord-cipher-selfbot)** (Node.js) - **Bot for discord that allows you to automatically cipher you messages with various ciphers**
 - **[College New Year Tree](https://github.com/D3rise/college-new-year-tree)** (HTML & CSS & JS) - **Page with counter of days left until New Year, college project**
