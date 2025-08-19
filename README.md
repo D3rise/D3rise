@@ -8,7 +8,7 @@
 
 Started by writing bots and mods, now designing and writing backend systems, doing DevOps stuff and administrating Linux servers as well as network infrastructure.
 
-Currently working as a Software Engineer at [ATME](https://atme.com) creating digital financial assets exchange using blockchain technologies.
+Ex-Software Engineer @ [ATME](https://atme.com). Currently learning algorithms and data structures.
 
 ### 🔧 Languages & Tools
 
