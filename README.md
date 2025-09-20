@@ -1,4 +1,4 @@
-# 👋 Welcome <img align="right" src="https://profile-counter.glitch.me/D3rise/count.svg"/>
+# 👋 Welcome <!-- <img align="right" src="https://profile-counter.glitch.me/D3rise/count.svg"/> -->
 
   <img  width="55%" align="right" src="https://github-readme-stats.vercel.app/api?username=D3rise&hide_border=true&count_private=true&layout=compact&hide_title=true&show_icons=true&theme=dracula&icon_color=5194f0&bg_color=0d1117&include_all_commits=true&rank_icon=github&show_icons=true">
   <img width="55%" align="right" src="https://media.giphy.com/media/UV4rSwlTM7mnRa5l4o/giphy.gif">   
@@ -8,7 +8,7 @@
 
 Started by writing bots and mods, now designing and writing backend systems, doing DevOps stuff and administrating Linux servers as well as network infrastructure.
 
-Ex-Software Engineer @ [ATME](https://atme.com). Currently learning algorithms and data structures. You can see my solutions to some of the LeetCode problems here: https://github.com/D3rise/leetcode-solutions
+Golang Software Engineer @ [InfoTeCS JSC](https://infotecs.ru). Currently learning algorithms and data structures. You can see my solutions to some of the LeetCode problems here: https://github.com/D3rise/leetcode-solutions
 
 ### 🔧 Languages & Tools
 
