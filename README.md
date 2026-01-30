@@ -1,4 +1,4 @@
-# 👋 Welcome <!-- <img align="right" src="https://komarev.com/ghpvc/?username=D3rise&color=green"/> -->
+# 👋 Welcome <img align="right" src="https://komarev.com/ghpvc/?username=D3rise&color=green"/>
 
   <img  width="55%" align="right" src="./profile/stats.svg">
   <img width="55%" align="right" src="./profile/divider.gif">   
