@@ -45,7 +45,7 @@ Golang Software Engineer @ [InfoTeCS JSC](https://infotecs.ru). Currently learni
 
 > **Projects I'm currently working on:**
 
-- None
+- **[dchat](https://github.com/D3rise/dchat)** (Golang) - **Voice and text chat using WebRTC and WebSockets**
 
 ## ⚒ Open Source Projects
 
