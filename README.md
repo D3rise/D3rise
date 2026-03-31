@@ -4,7 +4,7 @@
   <img width="55%" align="right" src="./profile/divider.gif">   
   <img width="55%" align="right" src="./profile/top-langs.svg"/>
 
-**Hi, my name is Vladimir** and I am an Associate of Applied Science in Computer Science, Open Source enthusiast and software engineer. I ❤ computer hardware, Linux, networks, [memes](https://www.youtube.com/watch?v=dQw4w9WgXcQ), music, books, astrophysics, quantum mechanics, anime and films.  
+**Hi, my name is Vladimir** and I am an AoS in Computer Science, Open Source enthusiast and software engineer. I ❤ computer hardware, Linux, networks, [memes](https://www.youtube.com/watch?v=dQw4w9WgXcQ), music, books, astrophysics, quantum mechanics, anime and films.  
 
 Started by writing bots and mods, now designing and writing backend systems, doing DevOps stuff and administrating Linux servers as well as network infrastructure.
 
