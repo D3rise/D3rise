@@ -8,7 +8,7 @@
 
 Started by writing bots and mods, now designing and writing backend systems, doing DevOps stuff and administrating Linux servers as well as network infrastructure.
 
-Golang Software Engineer @ [InfoTeCS JSC](https://infotecs.ru). Currently learning algorithms and data structures. You can see my solutions to some of the LeetCode problems here: https://github.com/D3rise/leetcode-solutions
+Senior Software Engineer @ [X5 Digital](https://www.x5.ru/en/). Currently learning algorithms and data structures. You can see my solutions to some of the LeetCode problems here: https://github.com/D3rise/leetcode-solutions
 
 ### 🔧 Languages & Tools
 
