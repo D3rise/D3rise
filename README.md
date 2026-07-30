@@ -46,7 +46,7 @@ Currently learning algorithms and data structures. You can see my solutions to s
 
 > **Projects I'm currently working on:**
 
-- **[dchat](https://github.com/D3rise/dchat)** (Golang) - **Voice and text chat using WebRTC and WebSockets**
+- **[tgspot](https://github.com/D3rise/tgspot)** (Node.js) - **Telegram bot for downloading music straight from Spotify/Yandex.Music powered by Zotify and yandex-music-downloader**
 
 ## ⚒ Open Source Projects
 
@@ -55,6 +55,7 @@ Currently learning algorithms and data structures. You can see my solutions to s
 - **[Hyperledger Voting System](https://github.com/nonblood-brothers/hyperledger-voting-system)** - **A voting system based on decentralized blockchain of Hyperledger Fabric; a college diploma project**
 - **[Anonymous Chats Bot](https://github.com/D3rise/anonymous-chats-discord)** (Node.js) - **Bot for Discord that allows you to chat anonymously with random people**
 - **[PokedexCLI](https://github.com/D3rise/pokedexcli)** (Golang) - **Pokedex CLI (REPL)**
+- **[dchat](https://github.com/D3rise/dchat)** (Golang) - **Voice and text chat using WebRTC and WebSockets**
 - **[Gator](https://github.com/D3rise/gator)** (Golang) - **RSS Feed Multiuser Aggregator CLI, supports following, aggregating, browsing feeds and features a couple of other useful utilities**
 - **[Teleflood](https://github.com/D3rise/teleflood)** (Python) - **Flooding tool for Telegram with support of proxies and multiple accounts**
 - **[ItTech Study Bot](https://github.com/D3rise/ittech-hackathon)** (Node.js) - **Bot for Telegram that was made during ItTech Hackathon**
