@@ -47,6 +47,7 @@ Currently learning algorithms and data structures. You can see my solutions to s
 > **Projects I'm currently working on:**
 
 - **[tgspot](https://github.com/D3rise/tgspot)** (Node.js) - **Telegram bot for downloading music straight from Spotify/Yandex.Music powered by Zotify and yandex-music-downloader**
+- **[contrib-cal-sync](https://github.com/D3rise/contrib-cal-sync)** (Node.js) - **A utility working on a host machine that allows synchronizing contribution calendars of GitLab and GitHub profiles, accounting for the possibility that GitLab is hosted behind a corporate VPN**
 
 ## ⚒ Open Source Projects
 
